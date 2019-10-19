@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Kamera - Gårdsplads
-rtsp://192.168.1.248:7447/5d263ca74b8695ddfe3de0e1_0
+rtmps://192.168.1.248:7444/live/5d263ca74b8695ddfe3de0e1_0
 #EXTINF:0,Kamera - Nord-Vest Vaskeplads
 rtsp://192.168.1.248:7447/5d250523efc6d65466bd03d8_0
 #EXTINF:0,Kamera - Syd-Vest Terrasse 
